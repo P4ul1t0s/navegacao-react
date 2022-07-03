@@ -1,7 +1,7 @@
 const About = props => (
     <div className="About">
         <h1>About</h1>
-        <p>Nosso sistema ...</p>
+        <h2>Nosso sistema ...</h2>
     </div>
 )
 
